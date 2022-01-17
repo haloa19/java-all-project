@@ -11,4 +11,5 @@ public class Exercise03 {
 		}
 		System.out.println("3의 배수의 합: " + sum);		
 	}
+	
 }
