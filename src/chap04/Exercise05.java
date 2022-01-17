@@ -8,7 +8,9 @@ public class Exercise05 {
 				if(4*i + 5*j == 60) {
 					System.out.println("(" + i + ", " + j + ")");
 				}
+				
 			}
+			
 		}
 
 	}
