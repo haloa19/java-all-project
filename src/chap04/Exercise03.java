@@ -1,7 +1,7 @@
 package chap04;
 
 public class Exercise03 {
-
+	//test 2
 	public static void main(String[] args) {
 		int sum = 0;
 		for(int i = 1; i <= 100; i++) {
